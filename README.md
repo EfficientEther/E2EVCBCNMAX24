@@ -13,8 +13,8 @@ Welcome to the **E2EVC MAX Barcelona** resources repository. This repository con
 This repository includes:
 
 - Free trial information for **EtherAssist**.
-- Documentation and guides.
-- Event-related content.
+- Sildes
+- Photos
 
 You will find everything organised within the repository's folder structure. Simply navigate to the relevant sections to access the materials you need.
 
