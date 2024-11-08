@@ -1,6 +1,6 @@
 # E2EVC MAX Barcelona - Resources Repository
 
-![Branding Logo-081124 (2)](https://github.com/user-attachments/assets/0c878522-7044-4c7e-a731-caf7ada5e23d)
+<img src="https://github.com/user-attachments/assets/0c878522-7044-4c7e-a731-caf7ada5e23d" alt="Branding Logo" width="300">
 
 Welcome to the **E2EVC MAX Barcelona** resources repository. This repository contains all the essential resources from the event, including details about the EtherAssist free trial and more.
 
@@ -30,7 +30,8 @@ To get started:
 
 Alternatively, scan the QR code below to access the free trial portal directly:
 
-![image](https://github.com/user-attachments/assets/3f8cc712-df9a-4153-9b75-8405d0e25469)
+<img src="https://github.com/user-attachments/assets/3f8cc712-df9a-4153-9b75-8405d0e25469" alt="QR Code" width="300">
+
 
 For any questions, feel free to raise an issue in this repository or contact [info@etherassist.ai](mailto:info@etherassist.ai).
 
